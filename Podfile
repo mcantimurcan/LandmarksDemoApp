@@ -5,9 +5,7 @@ target 'Landmarks' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-pod "RxSwift"
-pod "RxCocoa"
-
-  # Pods for Landmarks
+  pod 'RxSwift'
+  pod 'RxCocoa'
 
 end
